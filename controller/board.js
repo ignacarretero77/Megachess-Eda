@@ -72,4 +72,4 @@ const renderBoard = (data) => {
 module.exports = {
     parseBoard,
     renderBoard
-}
+};
