@@ -1,0 +1,12 @@
+{
+    "event": "your_turn",
+    "data": {
+        "board_id": "5405e70a-5849-4fca-9748-bb2173369f60",
+        "turn_token": "f26434af-5569-48b7-9049-cdcb05c19f7a",
+        "username": "icarretero",
+        "actual_turn": "white",
+        "board": "QQQQQQQqkkbbhhrr       qkkbbhhrr       ppppppppp       p                                Q        q        PPPPPPPPP       RRHHBBQQK       RRHHBBQQKqqqqqqq",
+        "move_left":180,
+        "opponent_username":"icarretero"
+    }
+}
